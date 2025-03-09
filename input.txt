@@ -1,0 +1,5 @@
+3 4
+ABCD
+SAAT
+ACAE
+CAT
